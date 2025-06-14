@@ -155,7 +155,7 @@ html, body {
     left: 0;
     width: 100%;
     height: 185%;
-    background-image: url('./img/Banner/nhatrang.png'); /* sửa thành URL thật */
+    background-image: url('../img/Banner/nhatrang.png'); /* sửa thành URL thật */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -264,7 +264,7 @@ html, body {
    ========================================== */
 @media (max-width: 992px) {
     .banner-bg {
-        background-image: url('./img/Banner/Nha-Trang-banner5.jpg');
+        background-image: url('../img/Banner/Nha-Trang-banner5.jpg');
         background-position: center center;
         background-size: cover;
     }
@@ -288,7 +288,7 @@ html, body {
 
 @media (max-width: 576px) {
     .banner-bg {
-        background-image: url('./img/Banner/nhantrang-mobile.jpg');
+        background-image: url('../img/Banner/nhantrang-mobile.jpg');
         background-position: center center;
         background-size: cover;
     }
@@ -312,7 +312,7 @@ html, body {
 
 @media (max-width: 400px) {
     .banner-bg {
-        background-image: url('./img/Banner/nhantrang-mobile.jpg');
+        background-image: url('../img/Banner/nhantrang-mobile.jpg');
         background-position: center center;
         background-size: cover;
     }
